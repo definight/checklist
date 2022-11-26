@@ -1,5 +1,7 @@
 ## Here's example of checklist made by me
 
+<span style="color:blue">some *This is Blue italic.* text</span>
+
 | Версия      |   1.0  |  |   |
 | --- | --- |--- |--- |
 | Окружение   |   Windows 10 Pro      |    |    |
