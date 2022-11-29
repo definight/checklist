@@ -30,7 +30,6 @@
 |Выбор времени начала интервала для звонка в указанном диапазоне  |   ok   |    |![positive](https://img.shields.io/badge/-positive-378805?style=for-flat-square)    |
 | Выбор времени конца интервала для звонка в указанном диапазоне   |ok    |   |![positive](https://img.shields.io/badge/-positive-378805?style=for-flat-square)    |
 | **Pairwise-тестирование**   |    **bugs**     |     |    |
-<<<<<<< HEAD
 | холост/не замужем, Россия, 24, Жен, дети есть, Неполное высшее   |    ok     |    |![positive](https://img.shields.io/badge/-positive-378805?style=for-flat-square)    |
 | холост/не замужем, Казахстан, 28, Жен, дети есть, Высшее    | ok |  |![positive](https://img.shields.io/badge/-positive-378805?style=for-flat-square)    |
 | в гражданском браке, Казахстан, 28, Муж, детей нет, Неполное Высшее   |    ok     |    |![positive](https://img.shields.io/badge/-positive-378805?style=for-flat-square)    |
